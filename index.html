@@ -1,95 +1,65 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="UTF-8">
-    <title>小组提交成绩</title>
-    <style>
-      /* 定义网格样式 */
-      table {
-        border-collapse: collapse;
-        width: 100%;
-      }
+<head>
+	<title>小组课表</title>
+	<style type="text/css">
+		table {
+			border-collapse: collapse;
+			margin: 20px;
+			width: 100%;
+		}
+		th {
+			background-color: #ddd;
+			border: 1px solid black;
+			padding: 10px;
+			text-align: center;
+			font-weight: bold;
+		}
+		td {
+			border: 1px solid black;
+			padding: 10px;
+			text-align: center;
+		}
+		tr:nth-child(even) {
+			background-color: #f2f2f2;
+		}
+	</style>
+</head>
+<body>
+	<table>
+		<thead>
+			<tr class="header-row">
+				<th>小组</th>
+				<th>第一周</th>
+				<th>第二周</th>
+				<th>第三周</th>
+				<th>第四周</th>
+				<th>第五周</th>
+				<th>第六周</th>
+			</tr>
+		</thead>
+		<tbody>
+			<!-- 生成十个小组的行 -->
+			<script type="text/javascript">
+				for (let i = 1; i <= 10; i++) {
+					document.write(`<tr${i == 1 ? ' class="header-row"' : ''}><td>小组 ${i}</td>`);
+					// 生成每周的单元格
+					for (let j = 1; j <= 6; j++) {
+						document.write(`<td id="week-${j}-group-${i}">&nbsp;</td>`);
+					}
+					document.write('</tr>');
+				}
+			</script>
+		</tbody>
+	</table>
 
-      th, td {
-        text-align: center;
-        padding: 8px;
-        border: 1px solid black;
-      }
-
-      th {
-        background-color: #f2f2f2;
-      }
-    </style>
-  </head>
-  <body>
-    <h1>小组提交成绩</h1>
-    <table>
-      <tr>
-        <th>小组</th>
-        <th>第一次提交</th>
-        <th>第二次提交</th>
-        <th>第三次提交</th>
-      </tr>
-      <tr>
-        <td>1</td>
-        <td>90</td>
-        <td>85</td>
-        <td>92</td>
-      </tr>
-      <tr>
-        <td>2</td>
-        <td>80</td>
-        <td>92</td>
-        <td>87</td>
-      </tr>
-      <tr>
-        <td>3</td>
-        <td>95</td>
-        <td>88</td>
-        <td>91</td>
-      </tr>
-      <tr>
-        <td>4</td>
-        <td>86</td>
-        <td>94</td>
-        <td>89</td>
-      </tr>
-      <tr>
-        <td>5</td>
-        <td>92</td>
-        <td>81</td>
-        <td>95</td>
-      </tr>
-      <tr>
-        <td>6</td>
-        <td>88</td>
-        <td>90</td>
-        <td>83</td>
-      </tr>
-      <tr>
-        <td>7</td>
-        <td>83</td>
-        <td>85</td>
-        <td>90</td>
-      </tr>
-      <tr>
-        <td>8</td>
-        <td>91</td>
-        <td>93</td>
-        <td>84</td>
-      </tr>
-      <tr>
-        <td>9</td>
-        <td>87</td>
-        <td>91</td>
-        <td>88</td>
-      </tr>
-      <tr>
-        <td>10</td>
-        <td>94</td>
-        <td>89</td>
-        <td>92</td>
-      </tr>
-    </table>
-  </body>
+	<script type="text/javascript">
+		// 在每个单元格中添加占位符
+		for (let i = 1; i <= 10; i++) {
+			for (let j = 1; j <= 6; j++) {
+				document.getElementById(`week-${j}-group-${i}`).innerHTML = '&nbsp;';
+			}
+		}
+	</script>
+</body>
 </html>
