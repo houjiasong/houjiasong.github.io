@@ -2,160 +2,160 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:10461/posts/papermod/papermod-installation/</loc>
+    <loc>http://localhost:14103/posts/papermod/papermod-installation/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:10461/posts/papermod/papermod-features/</loc>
+    <loc>http://localhost:14103/posts/papermod/papermod-features/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:10461/posts/papermod/papermod-faq/</loc>
+    <loc>http://localhost:14103/posts/papermod/papermod-faq/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:10461/posts/papermod/papermod-icons/</loc>
+    <loc>http://localhost:14103/posts/papermod/papermod-icons/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:10461/posts/papermod/papermod-variables/</loc>
+    <loc>http://localhost:14103/posts/papermod/papermod-variables/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:10461/tags/docs/</loc>
+    <loc>http://localhost:14103/tags/docs/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:10461/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="http://localhost:10461/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fa"
-                href="http://localhost:10461/fa/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://localhost:10461/"
-                />
-  </url><url>
-    <loc>http://localhost:10461/tags/papermod/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:10461/series/papermod/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:10461/posts/papermod/</loc>
-    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:10461/posts/</loc>
+    <loc>http://localhost:14103/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:10461/fr/posts/"
+                href="http://localhost:14103/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="http://localhost:10461/fa/posts/"
+                href="http://localhost:14103/fa/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:10461/posts/"
+                href="http://localhost:14103/"
                 />
   </url><url>
-    <loc>http://localhost:10461/series/</loc>
+    <loc>http://localhost:14103/tags/papermod/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:10461/tags/</loc>
+    <loc>http://localhost:14103/series/papermod/</loc>
     <lastmod>2021-01-20T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:10461/categories/</loc>
+    <loc>http://localhost:14103/posts/papermod/</loc>
+    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:14103/posts/</loc>
+    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://localhost:14103/fr/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fa"
+                href="http://localhost:14103/fa/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://localhost:14103/posts/"
+                />
+  </url><url>
+    <loc>http://localhost:14103/series/</loc>
+    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:14103/tags/</loc>
+    <lastmod>2021-01-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:14103/categories/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:10461/tags/css/</loc>
+    <loc>http://localhost:14103/tags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:10461/tags/html/</loc>
+    <loc>http://localhost:14103/tags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:10461/tags/markdown/</loc>
+    <loc>http://localhost:14103/tags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:10461/posts/markdown-syntax/</loc>
+    <loc>http://localhost:14103/posts/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:10461/fr/posts/markdown-syntax/"
+                href="http://localhost:14103/fr/posts/markdown-syntax/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="http://localhost:10461/fa/posts/markdown-syntax/"
+                href="http://localhost:14103/fa/posts/markdown-syntax/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:10461/posts/markdown-syntax/"
+                href="http://localhost:14103/posts/markdown-syntax/"
                 />
   </url><url>
-    <loc>http://localhost:10461/categories/syntax/</loc>
+    <loc>http://localhost:14103/categories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:10461/tags/themes/</loc>
+    <loc>http://localhost:14103/tags/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:10461/categories/themes/</loc>
+    <loc>http://localhost:14103/categories/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:10461/series/themes-guide/</loc>
+    <loc>http://localhost:14103/series/themes-guide/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:10461/tags/code/</loc>
+    <loc>http://localhost:14103/tags/code/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:10461/posts/code_syntax/</loc>
+    <loc>http://localhost:14103/posts/code_syntax/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:10461/tags/gist/</loc>
+    <loc>http://localhost:14103/tags/gist/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:10461/tags/syntax/</loc>
+    <loc>http://localhost:14103/tags/syntax/</loc>
     <lastmod>2019-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:10461/posts/math-typesetting/</loc>
+    <loc>http://localhost:14103/posts/math-typesetting/</loc>
     <lastmod>2019-03-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:10461/tags/emoji/</loc>
+    <loc>http://localhost:14103/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:10461/posts/emoji-support/</loc>
+    <loc>http://localhost:14103/posts/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:10461/archives/</loc>
+    <loc>http://localhost:14103/archives/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:10461/fr/archives/"
+                href="http://localhost:14103/fr/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:10461/archives/"
+                href="http://localhost:14103/archives/"
                 />
   </url><url>
-    <loc>http://localhost:10461/search/</loc>
+    <loc>http://localhost:14103/search/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:10461/fr/search/"
+                href="http://localhost:14103/fr/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:10461/search/"
+                href="http://localhost:14103/search/"
                 />
   </url>
 </urlset>

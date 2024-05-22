@@ -2,88 +2,88 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:10461/fa/posts/markdown-syntax/</loc>
+    <loc>http://localhost:14103/fa/posts/markdown-syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:10461/posts/markdown-syntax/"
+                href="http://localhost:14103/posts/markdown-syntax/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:10461/fr/posts/markdown-syntax/"
+                href="http://localhost:14103/fr/posts/markdown-syntax/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="http://localhost:10461/fa/posts/markdown-syntax/"
+                href="http://localhost:14103/fa/posts/markdown-syntax/"
                 />
   </url><url>
-    <loc>http://localhost:10461/fa/fatags/css/</loc>
+    <loc>http://localhost:14103/fa/fatags/css/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:10461/fa/facategories/</loc>
+    <loc>http://localhost:14103/fa/facategories/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:10461/fa/faseries/</loc>
+    <loc>http://localhost:14103/fa/faseries/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:10461/fa/fatags/</loc>
+    <loc>http://localhost:14103/fa/fatags/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:10461/fa/fatags/html/</loc>
+    <loc>http://localhost:14103/fa/fatags/html/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:10461/fa/fatags/markdown/</loc>
+    <loc>http://localhost:14103/fa/fatags/markdown/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:10461/fa/</loc>
+    <loc>http://localhost:14103/fa/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:10461/"
+                href="http://localhost:14103/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:10461/fr/"
+                href="http://localhost:14103/fr/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="http://localhost:10461/fa/"
+                href="http://localhost:14103/fa/"
                 />
   </url><url>
-    <loc>http://localhost:10461/fa/posts/</loc>
+    <loc>http://localhost:14103/fa/posts/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:10461/posts/"
+                href="http://localhost:14103/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://localhost:10461/fr/posts/"
+                href="http://localhost:14103/fr/posts/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fa"
-                href="http://localhost:10461/fa/posts/"
+                href="http://localhost:14103/fa/posts/"
                 />
   </url><url>
-    <loc>http://localhost:10461/fa/facategories/syntax/</loc>
+    <loc>http://localhost:14103/fa/facategories/syntax/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:10461/fa/fatags/themes/</loc>
+    <loc>http://localhost:14103/fa/fatags/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:10461/fa/facategories/themes/</loc>
+    <loc>http://localhost:14103/fa/facategories/themes/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:10461/fa/faseries/themes-guide/</loc>
+    <loc>http://localhost:14103/fa/faseries/themes-guide/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
   </url>
 </urlset>
