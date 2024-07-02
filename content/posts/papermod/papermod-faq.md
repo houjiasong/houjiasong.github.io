@@ -20,7 +20,7 @@ weight: 3
 
 By Hugo's Lookup Order, you can override any part of a theme that you want. The following is a quick example.
 
-Let's say you wish the `list` was different. All you have to do is copy the `list` template:
+Let's say you wish the `list` was differesdsdnt. All you have to do is copy the `list` template:
 
 ```shell
 your-site/themes/papermod/layouts/_defaults/list.html
