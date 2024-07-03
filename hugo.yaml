@@ -71,7 +71,7 @@ languages:
       languageAltTitle: French
       profileMode:
         enabled: true
-        title: PaperMod
+        title: 侯佳松
         imageUrl: "https://raw.githubusercontent.com/googlefonts/noto-emoji/master/svg/emoji_u1f9d1_1f3fb_200d_1f4bb.svg"
         imageTitle: ProfileMode image
         # imageWidth: 120
@@ -79,7 +79,7 @@ languages:
         subtitle: "☄️ Fast | ☁️ Fluent | 🌙 Smooth | 📱 Responsive"
         buttons:
           - name: Blog
-            url: posts
+            url: posts·
           - name: Profile Mode
             url: https://github.com/adityatelange/hugo-PaperMod/wiki/Features#profile-mode
 
