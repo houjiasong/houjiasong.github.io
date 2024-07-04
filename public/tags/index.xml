@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on PaperMod</title>
+    <link>https://houjiasong.com/tags/</link>
+    <description>Recent content in Tags on PaperMod</description>
+    <image>
+      <title>PaperMod</title>
+      <url>https://houjiasong.com/images/papermod-cover.png</url>
+      <link>https://houjiasong.com/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.126.1</generator>
+    <language>en</language>
+    <copyright>PaperMod Contributors</copyright>
+    <lastBuildDate>Wed, 20 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://houjiasong.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Docs</title>
+      <link>https://houjiasong.com/tags/docs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://houjiasong.com/tags/docs/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>PaperMod</title>
+      <link>https://houjiasong.com/tags/papermod/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://houjiasong.com/tags/papermod/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Css</title>
+      <link>https://houjiasong.com/tags/css/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://houjiasong.com/tags/css/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Html</title>
+      <link>https://houjiasong.com/tags/html/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://houjiasong.com/tags/html/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Markdown</title>
+      <link>https://houjiasong.com/tags/markdown/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://houjiasong.com/tags/markdown/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Themes</title>
+      <link>https://houjiasong.com/tags/themes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://houjiasong.com/tags/themes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Code</title>
+      <link>https://houjiasong.com/tags/code/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://houjiasong.com/tags/code/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Gist</title>
+      <link>https://houjiasong.com/tags/gist/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://houjiasong.com/tags/gist/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Privacy</title>
+      <link>https://houjiasong.com/tags/privacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://houjiasong.com/tags/privacy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Shortcodes</title>
+      <link>https://houjiasong.com/tags/shortcodes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://houjiasong.com/tags/shortcodes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Syntax</title>
+      <link>https://houjiasong.com/tags/syntax/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://houjiasong.com/tags/syntax/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Emoji</title>
+      <link>https://houjiasong.com/tags/emoji/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://houjiasong.com/tags/emoji/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

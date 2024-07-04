@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>PaperMod</title>
+    <link>https://houjiasong.com/</link>
+    <description>Recent content on PaperMod</description>
+    <image>
+      <title>PaperMod</title>
+      <url>https://houjiasong.com/images/papermod-cover.png</url>
+      <link>https://houjiasong.com/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- 0.126.1</generator>
+    <language>en</language>
+    <copyright>PaperMod Contributors</copyright>
+    <lastBuildDate>Thu, 04 Jul 2024 00:38:22 +0800</lastBuildDate>
+    <atom:link href="https://houjiasong.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Install / Update PaperMod</title>
+      <link>https://houjiasong.com/posts/papermod/papermod-installation/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://houjiasong.com/posts/papermod/papermod-installation/</guid>
+      <description>Read aboout Install and Update instructions and sampled configuration templates</description>
+    </item>
+    <item>
+      <title>Features / Mods</title>
+      <link>https://houjiasong.com/posts/papermod/papermod-features/</link>
+      <pubDate>Wed, 20 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://houjiasong.com/posts/papermod/papermod-features/</guid>
+      <description>Learn About All Features in PaperMod</description>
+    </item>
+    <item>
+      <title>How to Create Website</title>
+      <link>https://houjiasong.com/how-to-create-website/</link>
+      <pubDate>Thu, 04 Jul 2024 00:38:22 +0800</pubDate>
+      <guid>https://houjiasong.com/how-to-create-website/</guid>
+      <description>这里先研究下为什么windows创建会失败，创建语句如下：
+hugo new how-to-create-website.md出错信息如下
+Error: error building site: process: readAndProcessContent: &amp;quot;C:\Users\houjiasong\Desktop\houjiasong.github.io\content\posts\papermod\papermod-installation.md:22:108&amp;quot;: failed to extract shortcode: template for shortcode &amp;quot;inTextImg&amp;quot; not found根据报错信息我们可以看到具体位置，首先注释掉使用inTextImg语句的部分，注释掉并没有起到作用，在启动hugo的时候还是爆了和上面一样的问题，索性就先删掉再启动hugo
+Error: error building site: process: readAndProcessContent: &amp;quot;C:\Users\houjiasong\Desktop\houjiasong.github.io\content\posts\papermod\papermod-installation.md:37:3&amp;quot;: failed to extract shortcode: template for shortcode &amp;quot;collapse&amp;quot; not found同样的问题出现了，注释掉代码但是依然会再这里报错，信息如下：
+Error: error building site: process: readAndProcessContent: &amp;quot;C:\Users\houjiasong\Desktop\houjiasong.github.io\content\posts\papermod\papermod-installation.md:109:9&amp;quot;: got closing shortcode, but none is open问题和上面类似都是failed to extract shortcode,把上面报错的都删除之后启动还是失败，先分析一下failed to extract shortcode
+theme里面没东西 这个问题是git submodule 的问题 就是说 clone 不会包括submodule里面的内容
+下一个问题</description>
+    </item>
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>https://houjiasong.com/posts/markdown-syntax/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://houjiasong.com/posts/markdown-syntax/</guid>
+      <description>Sample article showcasing basic Markdown syntax and formatting for HTML elements.</description>
+    </item>
+    <item>
+      <title>Code Syntax Guide</title>
+      <link>https://houjiasong.com/posts/code_syntax/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://houjiasong.com/posts/code_syntax/</guid>
+      <description>Sample article showcasing basic code syntax and formatting for HTML elements.</description>
+    </item>
+    <item>
+      <title>Rich Content and Shortcodes</title>
+      <link>https://houjiasong.com/posts/rich-content/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://houjiasong.com/posts/rich-content/</guid>
+      <description>A brief description of Hugo Shortcodes</description>
+    </item>
+    <item>
+      <title>Math Typesetting</title>
+      <link>https://houjiasong.com/posts/math-typesetting/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://houjiasong.com/posts/math-typesetting/</guid>
+      <description>A brief guide to setup KaTeX</description>
+    </item>
+    <item>
+      <title>Emoji Support</title>
+      <link>https://houjiasong.com/posts/emoji-support/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>https://houjiasong.com/posts/emoji-support/</guid>
+      <description>Guide to emoji usage in Hugo</description>
+    </item>
+  </channel>
+</rss>
