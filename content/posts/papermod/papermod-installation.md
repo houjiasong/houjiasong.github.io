@@ -19,10 +19,6 @@ cover:
 
 ## Getting Started 🚀
 
-1. Follow **[Hugo Docs's - Quick Start](https://gohugo.io/getting-started/quick-start/)** guide to install {{< inTextImg url="https://raw.githubusercontent.com/gohugoio/hugoDocs/master/static/img/hugo-logo.png" height="14" >}}.
-   <br>(Make sure you install **Hugo >= v0.112.4**)
-
-2. Create a new {{< inTextImg url="https://raw.githubusercontent.com/gohugoio/hugoDocs/master/static/img/hugo-logo.png" height="14" >}} site
    ```sh
    hugo new site MyFreshWebsite --format yaml
    # replace MyFreshWebsite with name of your website
@@ -38,7 +34,6 @@ After you have created a new site, follow the below steps to add **PaperMod**
 - Themes reside in `MyFreshWebsite/themes` directory.
 - PaperMod will be installed in `MyFreshWebsite/themes/PaperMod`
 
-> {{< collapse summary="**Expand Method 1 - Git Clone**" >}}
 
 **INSTALL** : Inside the folder of your Hugo site `MyFreshWebsite`, run:
 
@@ -54,10 +49,6 @@ You may use ` --branch v7.0` to end of above command if you want to stick to spe
 cd themes/PaperMod
 git pull
 ```
-
-{{</ collapse >}}
-
-> {{< collapse summary="**Expand Method 2 - Git Submodule (recomended)**" >}}
 
 **INSTALL** : Inside the folder of your Hugo site `MyFreshWebsite`, run:
 
@@ -75,10 +66,6 @@ Read more about git submodules [here](https://www.atlassian.com/git/tutorials/gi
 git submodule update --remote --merge
 ```
 
-{{</ collapse >}}
-
-> {{< collapse summary="**Expand Method 3 - Download an unzip**" >}}
-
 Download PaperMod source as Zip from Github Releases and extract in your themes directory at `MyFreshWebsite/themes/PaperMod`
 
 Direct Links:
@@ -92,9 +79,6 @@ Direct Links:
 - [v2.0](https://github.com/adityatelange/hugo-PaperMod/archive/v2.0.zip)
 - [v1.0](https://github.com/adityatelange/hugo-PaperMod/archive/v1.0.zip)
 
-{{</ collapse >}}
-
-> {{< collapse summary="**Expand Method 4 - Hugo module**" >}}
 
 **INSTALL** :
 
@@ -121,8 +105,6 @@ hugo mod get -u
 ```
 
 Read more : [Hugo Docs's - HUGO MODULES](https://gohugo.io/hugo-modules/use-modules/)
-
-{{</ collapse >}}
 
 ### Finally set theme as PaperMod in your site config
 
