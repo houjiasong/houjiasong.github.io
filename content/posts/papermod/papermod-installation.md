@@ -3,6 +3,7 @@ title: "侯佳松简历"
 summary: Read aboout Install and Update instructions and sampled configuration templates
 date: 2021-01-20
 series: ["PaperMod"]
+draft: true
 weight: 1
 aliases: ["/papermod-installation"]
 tags: ["PaperMod", "Docs"]
