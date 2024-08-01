@@ -1,5 +1,5 @@
 ---
-title: "Install / Update PaperMod"
+title: "侯佳松简历"
 summary: Read aboout Install and Update instructions and sampled configuration templates
 date: 2021-01-20
 series: ["PaperMod"]
@@ -8,10 +8,10 @@ aliases: ["/papermod-installation"]
 tags: ["PaperMod", "Docs"]
 author: ["Aditya Telange"]
 cover:
-  image: images/papermod-cover.png
+  image: images/houjiasongCV.png
   hiddenInList: true
 ---
-
+<!-- 
 > - **We'll be using `yml/yaml` format for all examples down below, it is recommend to use `yaml` over `toml` as it is easier to read.**
 > - You can find any [YML to TOML](https://www.google.com/search?q=yml+to+toml) converters if needed.
 
@@ -351,4 +351,4 @@ You can use it by creating `archetypes/post.md`
 hugo new --kind post <name>
 ```
 
----
+--- -->
