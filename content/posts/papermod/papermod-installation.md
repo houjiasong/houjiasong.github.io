@@ -3,13 +3,13 @@ title: "侯佳松简历"
 summary: Read aboout Install and Update instructions and sampled configuration templates
 date: 2021-01-20
 series: ["PaperMod"]
-draft: true
+# draft: true
 weight: 1
 aliases: ["/papermod-installation"]
 tags: ["PaperMod", "Docs"]
 author: ["Aditya Telange"]
 cover:
-  image: images/houjiasongCV.png
+  image: images/houjiasongCV20240805.jpg
   hiddenInList: true
 ---
 <!-- 
