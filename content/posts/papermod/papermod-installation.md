@@ -9,7 +9,7 @@ aliases: ["/papermod-installation"]
 tags: ["PaperMod", "Docs"]
 author: ["Aditya Telange"]
 cover:
-  image: images/houjiasongCV.png
+  image: images/houjiasongCVFinal.jpg
   hiddenInList: true
 ---
 <!-- 
