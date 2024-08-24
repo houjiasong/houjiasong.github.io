@@ -59,6 +59,7 @@ This is pre text
 </html>
 ```
 
+
 ### Code block with backticks and language specified with line numbers
 
 ```html {linenos=true}
@@ -82,7 +83,7 @@ This is pre text
 
 - PaperMod supports `linenos=true` or `linenos=table`
 
-```html {linenos=true,hl_lines=[2,8]}
+```html {linenos=table,hl_lines=[2,8]}
 <!DOCTYPE html>
 <html lang="en">
   <head>
