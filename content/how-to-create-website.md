@@ -31,5 +31,7 @@ theme里面没东西
 
 下一个问题
 
-    ERROR error calling resources.GetRemote: Get "https://publish.twitter.com/oembed?dnt=false&url=https%3A%2F%2Ftwitter.com%2Fadityatelange%2Fstatus%2F1724414854348357922": dial tcp 162.125.7.1:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
-    Total in 21848 ms
+    <!-- ERROR error calling resources.GetRemote: Get "https://publish.twitter.com/oembed?dnt=false&url=https%3A%2F%2Ftwitter.com%2Fadityatelange%2Fstatus%2F1724414854348357922": dial tcp 162.125.7.1:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond.
+    Total in 21848 ms -->
+
+这个问题始终没有解决，搞不懂为什么在mac上就可以执行hugo server在win10上就出现这样的bug，先看下之前的discord吧
