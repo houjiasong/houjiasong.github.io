@@ -35,3 +35,4 @@ theme里面没东西
     Total in 21848 ms -->
 
 这个问题始终没有解决，搞不懂为什么在mac上就可以执行hugo server在win10上就出现这样的bug，先看下之前的discord吧
+resources.GetRemote因为是获取twitter上面的json资源所以我怀疑是代理的问题，这里就先把example的默认文章先删掉，等之后弄懂clash的原理了再设置，不得不说啊，还是不说了。
