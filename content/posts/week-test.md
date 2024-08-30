@@ -1,5 +1,5 @@
 +++
-title = 'Week Test'
+title = '力扣周赛'
 date = 2024-07-07T14:21:44+08:00
 draft = false
 +++
