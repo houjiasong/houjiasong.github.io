@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Favicon Generator</title>
+</head>
+<body>
+    <canvas id="canvas16" width="16" height="16"></canvas>
+    <canvas id="canvas32" width="32" height="32"></canvas>
+    <canvas id="canvas180" width="180" height="180"></canvas>
+    <script>
+        function drawEmoji(canvas, size) {
+            const ctx = canvas.getContext('2d');
+            ctx.font = `${size * 0.8}px Arial`;
+            ctx.textAlign = 'center';
+            ctx.textBaseline = 'middle';
+            ctx.fillText('🙊', size / 2, size / 2);
+        }
+
+        drawEmoji(document.getElementById('canvas16'), 16);
+        drawEmoji(document.getElementById('canvas32'), 32);
+        drawEmoji(document.getElementById('canvas180'), 180);
+
+        // Download links
+        const canvas16 = document.getElementById('canvas16');
+        const canvas32 = document.getElementById('canvas32');
+        const canvas180 = document.getElementById('canvas180');
+
+        console.log('16x16:', canvas16.toDataURL());
+        console.log('32x32:', canvas32.toDataURL());
+        console.log('180x180:', canvas180.toDataURL());
+    </script>
+</body>
+</html>
