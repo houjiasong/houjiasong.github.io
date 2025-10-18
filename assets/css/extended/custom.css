@@ -15,3 +15,13 @@ iframe {
 .entry-cover img {
     border: 1px solid var(--border);
 }
+
+/* 增大文章列表中的日期和元信息字体大小 */
+.entry-footer {
+    font-size: 16px;
+}
+
+/* 增大文章详情页的日期和元信息字体大小 */
+.post-meta {
+    font-size: 16px;
+}

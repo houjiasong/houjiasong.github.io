@@ -1,0 +1,42 @@
+<!-- Lightbox HTML Structure -->
+<div class="lightbox-overlay" id="lightbox">
+    <span class="lightbox-close">&times;</span>
+    <img class="lightbox-image" id="lightbox-img" src="" alt="">
+</div>
+
+<!-- Lightbox JavaScript -->
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const lightbox = document.getElementById('lightbox');
+    const lightboxImg = document.getElementById('lightbox-img');
+    const closeBtn = document.querySelector('.lightbox-close');
+
+    // Add click event to all images in post content
+    const contentImages = document.querySelectorAll('.post-content img');
+
+    contentImages.forEach(function(img) {
+        img.addEventListener('click', function() {
+            lightbox.classList.add('active');
+            lightboxImg.src = this.src;
+            lightboxImg.alt = this.alt;
+            document.body.style.overflow = 'hidden'; // Prevent scrolling
+        });
+    });
+
+    // Close lightbox when clicking on overlay or close button
+    lightbox.addEventListener('click', closeLightbox);
+    closeBtn.addEventListener('click', closeLightbox);
+
+    // Close on ESC key
+    document.addEventListener('keydown', function(e) {
+        if (e.key === 'Escape' && lightbox.classList.contains('active')) {
+            closeLightbox();
+        }
+    });
+
+    function closeLightbox() {
+        lightbox.classList.remove('active');
+        document.body.style.overflow = ''; // Restore scrolling
+    }
+});
+</script>
